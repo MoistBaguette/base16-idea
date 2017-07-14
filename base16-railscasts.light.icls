@@ -62,13 +62,13 @@
     <option name="DEFAULT_KEYWORD">
         <value>
             <option name="FOREGROUND" value="b6b3eb" />
-            <option name="FONT_TYPE" value="1" />
+            
         </value>
     </option>
     <option name="DEFAULT_STRING">
         <value>
             <option name="FOREGROUND" value="a5c261" />
-            <option name="FONT_TYPE" value="1" />
+            
         </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -144,7 +144,7 @@
     <option name="DEFAULT_FUNCTION_DECLARATION">
         <value>
             <option name="FOREGROUND" value="6d9cbe" />
-            <option name="FONT_TYPE" value="1" />
+            
         </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -165,7 +165,7 @@
     <option name="DEFAULT_CLASS_NAME">
         <value>
             <option name="FOREGROUND" value="bc9458" />
-            <option name="FONT_TYPE" value="1" />
+            
         </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
@@ -176,13 +176,13 @@
     <option name="DEFAULT_CLASS_REFERENCE">
         <value>
             <option name="FOREGROUND" value="bc9458" />
-            <option name="FONT_TYPE" value="1" />
+            
         </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
         <value>
             <option name="FOREGROUND" value="6d9cbe" />
-            <option name="FONT_TYPE" value="1" />
+            
         </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -193,7 +193,7 @@
     <option name="DEFAULT_STATIC_METHOD">
         <value>
             <option name="FOREGROUND" value="6d9cbe" />
-            <option name="FONT_TYPE" value="1" />
+            
         </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -219,13 +219,13 @@
     <option name="DEFAULT_VALID_STRING_ESCAPE">
         <value>
             <option name="FOREGROUND" value="da4939" />
-            <option name="FONT_TYPE" value="1" />
+            
         </value>
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
         <value>
             <option name="FOREGROUND" value="bc9458" />
-            <option name="FONT_TYPE" value="1" />
+            
         </value>
     </option>
     <option name="DEFAULT_PREDEFINED_SYMBOL">
@@ -256,7 +256,7 @@
     <option name="ABSTRACT_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="ABSTRACT_METHOD_ATTRIBUTES">
@@ -274,7 +274,7 @@
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="BAD_CHARACTER">
@@ -290,7 +290,7 @@
     <option name="CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="CONSOLE_BLACK_OUTPUT">
@@ -376,7 +376,7 @@
     <option name="CONSOLE_USER_INPUT">
       <value>
         <option name="FOREGROUND" value="2b2b2b" />
-        <option name="FONT_TYPE" value="2" />
+        
       </value>
     </option>
     <option name="CONSOLE_WHITE_OUTPUT">
@@ -409,43 +409,43 @@
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="da4939" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b6b3eb" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="CUSTOM_KEYWORD2_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="660e7a" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="CUSTOM_KEYWORD3_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6666" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="CUSTOM_KEYWORD4_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="660000" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="CUSTOM_LINE_COMMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="FONT_TYPE" value="2" />
+        
       </value>
     </option>
     <option name="CUSTOM_MULTI_LINE_COMMENT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="808080" />
-        <option name="FONT_TYPE" value="2" />
+        
       </value>
     </option>
     <option name="CUSTOM_NUMBER_ATTRIBUTES">
@@ -456,13 +456,13 @@
     <option name="CUSTOM_STRING_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8000" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="da4939" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="DELETED_TEXT_ATTRIBUTES">
@@ -505,7 +505,7 @@
     <option name="DOC_COMMENT_TAG_VALUE">
       <value>
         <option name="FOREGROUND" value="e6e1dc" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="DUPLICATE_FROM_SERVER">
@@ -531,7 +531,7 @@
       <value>
         <option name="FOREGROUND" value="272935" />
         <option name="BACKGROUND" value="d4cfc9" />
-        <option name="FONT_TYPE" value="1" />
+        
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -563,7 +563,7 @@
     <option name="GHERKIN_PYSTRING">
       <value>
         <option name="FOREGROUND" value="e6e1dc" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="GHERKIN_TABLE_HEADER_CELL">
@@ -574,7 +574,7 @@
     <option name="GROOVY_KEYWORD">
       <value>
         <option name="FOREGROUND" value="b6b3eb" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -586,7 +586,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        
         <option name="EFFECT_COLOR" value="d4cfc9" />
         <option name="ERROR_STRIPE_COLOR" value="d4cfc9" />
       </value>
@@ -594,7 +594,7 @@
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b6b3eb" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -615,7 +615,7 @@
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="INTERFACE_NAME_ATTRIBUTES">
@@ -629,19 +629,19 @@
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="ccffcc" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="LINE_NONE_COVERAGE">
       <value>
         <option name="FOREGROUND" value="ffcccc" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
         <option name="FOREGROUND" value="ffffcc" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="LIVE_TEMPLATE_ATTRIBUTES">
@@ -672,13 +672,13 @@
     <option name="List/map to object conversion">
       <value>
         <option name="FOREGROUND" value="e6e1dc" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="2b2b2b" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="METHOD_CALL_ATTRIBUTES">
@@ -689,7 +689,7 @@
     <option name="METHOD_DECLARATION_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="Map key">
@@ -714,13 +714,13 @@
     <option name="SASS_MIXIN">
       <value>
         <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="SASS_VARIABLE">
       <value>
         <option name="FOREGROUND" value="bc9458" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="SCOPE_KEY_All">
@@ -754,7 +754,7 @@
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="6d9cbe" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES">
@@ -763,19 +763,19 @@
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="660e7a" />
-        <option name="FONT_TYPE" value="2" />
+        
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="7f0000" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="b6b3eb" />
-        <option name="FONT_TYPE" value="1" />
+        
         <option name="ERROR_STRIPE_COLOR" value="b6b3eb" />
       </value>
     </option>
@@ -793,7 +793,7 @@
     <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="da4939" />
-        <option name="FONT_TYPE" value="1" />
+        
       </value>
     </option>
     <option name="Unresolved reference access">
@@ -812,7 +812,7 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="FONT_TYPE" value="1" />
+        
         <option name="EFFECT_COLOR" value="3a4055" />
         <option name="ERROR_STRIPE_COLOR" value="3a4055" />
       </value>
